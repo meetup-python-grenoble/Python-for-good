@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 plotly = "*"
 requests = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
