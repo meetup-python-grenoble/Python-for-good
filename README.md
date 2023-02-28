@@ -10,7 +10,7 @@ ___
 
 Pour cet atelier, vous pouvez utiliser ces ressources de **deux manières différentes** :
 
-- **En ligne - pour tout le monde** : en utilisant l'**espace créé à votre nom** dans le Jupyter Hub :
+- **En ligne - pour tout le monde** : en utilisant l'**espace créé à votre nom** (votre nom de membre sur la plateforme [Meetup](https://www.meetup.com/fr-FR/home/)) dans le Jupyter Hub :
 
 [![Jupyter Hub](content/jupyter_logo.png)](https://pythonforgood.francecentral.cloudapp.azure.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeetup-python-grenoble%2FPython-for-good&urlpath=lab%2Ftree%2FPython-for-good%2FPresentation.pdf&branch=main)
 
@@ -18,8 +18,8 @@ Pour cet atelier, vous pouvez utiliser ces ressources de **deux manières diffé
 
 ___
 
-Lien vers les **jeux de données** de l'atelier :
+Lien vers les **jeux de données** de l'atelier (⚠️ Fichiers volumineux) :
 
-- Jeu de données Open Food Facts des **produits français** : >>TBD<<
+- Jeu de données Open Food Facts des **produits français** (⚠️ 1.5Go): https://drive.google.com/file/d/1NAtW9z2ymkRFia-P_FpkkIIsfnny0-Kp/view
 
-- Jeu de données des **images des produits** d'Open Food Facts : >>TBD<<
+- Jeu de données des **images des produits** d'Open Food Facts (⚠️ 300Mo) : https://drive.google.com/file/d/1xqD8NQ7BEPvKryC9q1qUEvVGdH3b6MUW/view

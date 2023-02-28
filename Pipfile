@@ -9,6 +9,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 plotly = "*"
+requests = "*"
 
 [dev-packages]
 
