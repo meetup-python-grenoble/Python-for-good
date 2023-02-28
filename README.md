@@ -10,7 +10,7 @@ ___
 
 Pour cet atelier, vous pouvez utiliser ces ressources de **deux manières différentes** :
 
-- **En ligne - pour tout le monde** : en utilisant l'**espace créé à votre nom** (votre nom de membre sur la plateforme [Meetup](https://www.meetup.com/fr-FR/home/)) dans le Jupyter Hub :
+- **En ligne - pour tout le monde** : en utilisant l'**espace créé à votre nom** (votre nom de membre sur la plateforme [Meetup](https://www.meetup.com/fr-FR/home/) en minuscules et avec des _ à la place des espaces) dans le Jupyter Hub :
 
 [![Jupyter Hub](content/jupyter_logo.png)](https://pythonforgood.francecentral.cloudapp.azure.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmeetup-python-grenoble%2FPython-for-good&urlpath=lab%2Ftree%2FPython-for-good%2FPresentation.pdf&branch=main)
 
